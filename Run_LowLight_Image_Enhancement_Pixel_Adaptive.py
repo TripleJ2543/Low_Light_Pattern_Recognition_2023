@@ -153,7 +153,7 @@ def main(InputImg, gamma_max):
         NormImg[:, :, ind] = DenoiseImg[:, :, ind] / A[0, ind]
     NormImg = Normalize(NormImg)
     
-    Transmap = EstimateTransmission(float_image, NormImg, gamma_max, 6, 1)
+    Transmap = EstimateTransmission(float_image, NormImg, gamma_max)
     RecoverImg = Recover(float_image, Transmap, A)
 
     AdjustImg = Adjust(RecoverImg, 99.5, 0.5)
