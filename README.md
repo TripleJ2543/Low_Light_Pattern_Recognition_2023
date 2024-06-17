@@ -30,5 +30,7 @@ Jong Ju Jeon, Jun Young Park, Il Kyu Eom,
 Low-Light Image Enhancement Using Gamma Correction Prior in Mixed Color Spaces,   
 Pattern Recognition,   
 2023,   
-https://doi.org/10.1016/j.patcog.2023.110001.(https://www.sciencedirect.com/science/article/pii/S0031320323006994)
+https://doi.org/10.1016/j.patcog.2023.110001.
+(https://www.sciencedirect.com/science/article/pii/S0031320323006994)
+
 Keywords: Low-light image enhancement; Inverted image; Atmospheric light; Normalization; Transmission map; Retinex model; HSV color space; HSI color space; Gamma correction   
